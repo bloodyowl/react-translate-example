@@ -29,7 +29,7 @@ server.listen(
   location.port,
   location.host,
   () => {
-    console.log(`open ${ serverUrl }/examples in your browser`)
+    console.log(`open ${ serverUrl } in your browser`)
   }
 )
 

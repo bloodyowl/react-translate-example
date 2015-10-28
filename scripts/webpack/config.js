@@ -22,7 +22,7 @@ const config = {
       },
       {
         test: /\.html$/,
-        loader: "file?name=[path][name].html",
+        loader: "file?name=[name].html",
       },
       {
         test: /\.yml$/,

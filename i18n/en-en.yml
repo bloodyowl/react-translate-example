@@ -1,0 +1,15 @@
+locale: "en-en"
+
+TranslationsSwitch:
+  CHANGE_LANGUAGE: "Change language"
+
+Title:
+  HELLO: "Hello {{name}}"
+
+Field:
+  ENTER_NAME: "Your name"
+
+Counter:
+  COUNT:
+    - "{{n}} item"
+    - "{{n}} items"
